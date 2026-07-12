@@ -63,7 +63,7 @@ Liqo unifies these into a single platform so developers integrate once and scale
 | `liqo-platform` | Core backend platform |
 | `liqo-dashboard` | Merchant dashboard |
 | `liqo-sdk` | TypeScript SDK |
-| `liqo-landing` | Marketing website |
+| `liqo-web` | Marketing website |
 | `liqo-checkout` | Hosted checkout |
 
 ---
